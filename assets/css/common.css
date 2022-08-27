@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+html {
+  font-size: 62.5%; /* 16px * 62.5% = 10px */
+  width: 100%;
+  box-sizing: border-box;
+}
+body {
+  color: #3a3021;
+  font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
+  font-weight: 500;
+  font-size: 1.6rem;
+  line-height: 1.8;
+}
+section h2 {
+  font-size: 3.0rem;
+}
+a:hover {
+  opacity: 0.5;
+}
+.none {
+  display: none;
+}
+.wrapper{
+  overflow: hidden;
+}
+.inner{
+  max-width: 1080px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media(min-width: 768px) {
+  .inner{
+    max-width: 1440px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-left: auto;
+  margin-right: auto;
+    
+    
+  }}
+*,::before,::after {
+  box-sizing: border-box;
+}
+img {
+  width: 100%;
+  max-width: 100%;
+    height: auto;
+  vertical-align: bottom;
+}
