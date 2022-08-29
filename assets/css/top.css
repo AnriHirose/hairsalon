@@ -443,14 +443,15 @@ html {
   position: relative;
   z-index: 1;
 }
+
 .staff::after {
-  content: "";
-  display: block;
-  position: absolute;
-  top: 314px;
-  width: 100vw;
-  height: 28vw;
-  background: #d6cecc;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 499px;
+    width: 100vw;
+    height: 40vw;
+    background: #d6cecc;
   z-index: -1;
 }
 .staff_line {
@@ -1263,6 +1264,16 @@ address {
   .staff {
     padding-bottom: 260px;
   }
+  .staff::after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 314px;
+  width: 100vw;
+  height: 28vw;
+  background: #d6cecc;
+  z-index: -1;
+}
   .grid {
     position: absolute;
     top: 0;
