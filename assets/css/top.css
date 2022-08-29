@@ -460,7 +460,7 @@ html {
 }
 .section_staff_title {
   font-size: 3.0rem;
-  font-family: 'Adobe Caslon Pro''Adobe Caslon Pro Semibold', sans-serif;
+  font-family: "Adobe Caslon Pro","Adobe Caslon Pro Semibold","Baskerville", sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.30em;
   width: calc(50% + 0.8em);
