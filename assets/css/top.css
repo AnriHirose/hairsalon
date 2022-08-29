@@ -445,14 +445,14 @@ html {
 }
 
 .staff::after {
-    content: "";
+   content: "";
     display: block;
     position: absolute;
-    top: 499px;
+    top: 389px;
     width: 100vw;
     height: 40vw;
     background: #d6cecc;
-  z-index: -1;
+    z-index: -1;
 }
 .staff_line {
   width: 70%;
