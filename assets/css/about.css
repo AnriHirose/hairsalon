@@ -326,7 +326,7 @@ align-items: center;
 }
 .top h2 {
   font-size: 2.8rem;
-  font-family: 'Adobe Caslon Pro', sans-serif;
+  font-family: 'Libre Caslon Text', serif;
   letter-spacing: 0.28em;
   text-transform: uppercase;
   display: flex;
@@ -371,7 +371,7 @@ align-items: center;
   font-weight: 300;
   letter-spacing: 0.20em;
   text-transform: capitalize;
-  font-family: 'Acumin Pro', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   margin-top: 20px;
   margin-left: 10px;
 }
@@ -381,7 +381,7 @@ align-items: center;
   font-weight: 300;
   margin-left: 20px;
   text-transform: capitalize;
-  font-family: 'Acumin Pro', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 .staff_description p {
   font-size: 1.2rem;
