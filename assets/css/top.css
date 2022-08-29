@@ -460,7 +460,7 @@ html {
 }
 .section_staff_title {
   font-size: 3.0rem;
-  font-family: "Adobe Caslon Pro","Adobe Caslon Pro Semibold","Baskerville", sans-serif;
+  font-family: 'Libre Caslon Text', serif;
   text-transform: uppercase;
   letter-spacing: 0.30em;
   width: calc(50% + 0.8em);
@@ -638,7 +638,7 @@ html {
 }
 .section_stylebook_title {
   font-size: 3.0rem;
-  font-family: 'Adobe Caslon Pro', sans-serif;
+  font-family: 'Libre Caslon Text', serif;
   text-transform: uppercase;
   writing-mode: vertical-rl;
   letter-spacing: 0.35em;
@@ -782,7 +782,7 @@ html {
 }
 .section_product_title {
   font-size: 3.0rem;
-  font-family: 'Adobe Caslon Pro', sans-serif;
+  font-family: 'Libre Caslon Text', serif;
   text-transform: uppercase;
   letter-spacing: 0.30em;
   width: calc(50% + 3em);
@@ -930,7 +930,7 @@ html {
 }
 .section_access_title {
   font-size: 3.0rem;
-  font-family: 'Adobe Caslon Pro', sans-serif;
+  font-family: 'Libre Caslon Text', serif;
   text-transform: uppercase;
   letter-spacing: 0.30em;
   width: calc(50% + 2em);
