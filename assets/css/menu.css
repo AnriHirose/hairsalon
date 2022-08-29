@@ -325,7 +325,7 @@ align-items: center;
 }
 .top h2 {
   font-size: 2.8rem;
-  font-family: 'Adobe Caslon Pro', sans-serif;
+  font-family: 'Libre Caslon Text', serif;
   letter-spacing: 0.28em;
   text-transform: uppercase;
   display: flex;
@@ -342,7 +342,7 @@ align-items: center;
   margin-right: 19px;
 }
 .menu_wrap h2 {
-  font-family: 'Acumin Pro', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-size: 2.4rem;
   line-height: 1;
@@ -372,7 +372,7 @@ align-items: center;
 }
 .menu_wrap td {
   font-size: 1.4rem;
-  font-family: 'Acumin Pro', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-align: left;
   color: #999999;
   margin-bottom: 55px;
@@ -385,7 +385,7 @@ align-items: center;
   margin-bottom: 30px;
 }
 .menu {
-  font-family: 'Acumin Pro', sans-serif;
+font-family: 'Open Sans', sans-serif;
   text-align: left;
   font-size: 1.8rem;
   font-weight: 400;
@@ -394,7 +394,7 @@ align-items: center;
   width: 70%;
 }
 .price {
-   font-family: 'Acumin Pro', sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-size: 1.8rem;
   font-weight: 400;
   letter-spacing: 0.1em;
@@ -402,7 +402,7 @@ align-items: center;
   text-align: right;
 }
 .menu_80 {
-  font-family: 'Acumin Pro', sans-serif;
+font-family: 'Open Sans', sans-serif;
   text-align: left;
   font-size: 1.8rem;
   font-weight: 400;
@@ -411,7 +411,7 @@ align-items: center;
   width: 80%;
 }
 .price_20{
-  font-family: 'Acumin Pro', sans-serif;
+font-family: 'Open Sans', sans-serif;
   text-align: right;
   font-size: 1.8rem;
   font-weight: 400;
@@ -429,7 +429,7 @@ align-items: center;
   width: 60%;
 }
 .price_16 {
-  font-family: 'Acumin Pro', sans-serif;
+font-family: 'Open Sans', sans-serif;
   text-align: right;
   font-size: 1.6rem;
   font-weight: 400;
